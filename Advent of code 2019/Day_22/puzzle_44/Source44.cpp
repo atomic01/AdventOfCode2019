@@ -21,6 +21,7 @@ long long int exponentiationBySquaring(long long int, long long int, long long i
 
 int main()
 {
+	//DOES NOT WORK
 	tuple shuffleLCF = simplifyInstructions();
 	tuple finalLCF = createTuple();
 	long long int A = 0, B = 0, x = 0, fToTheNegativeKOfX = 0;
